@@ -45,4 +45,7 @@ AI4I 2020 Predictive Maintenance Dataset:
 - LogisticRegression на тесте:  
   - ROC AUC ≈ 0.85  
   - Precision/Recall/F1 (см. в приложении)  
-- Баланс классов: отказов примерно 4%  
+- Баланс классов: отказов примерно 4%
+
+## Видео-демонстрация
+https://youtu.be/YkxTtFrfoIQ
