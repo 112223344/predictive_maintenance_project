@@ -48,4 +48,4 @@ AI4I 2020 Predictive Maintenance Dataset:
 - Баланс классов: отказов примерно 4%
 
 ## Видео-демонстрация
-https://youtu.be/YkxTtFrfoIQ
+[https://youtu.be/YkxTtFrfoIQ](https://youtu.be/-EmMhMvi2kU)
